@@ -1,1 +1,1 @@
-/dir1/subdir1/subsubdir/tripleNested.txt
+tripleNested.txt/subsubdir/subdir1/dir1/
